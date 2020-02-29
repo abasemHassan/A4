@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="javafxlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javafxlib/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafxlib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafxlib/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafxlib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafxlib/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafxlib/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafxlib/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafxlib/javafx.web.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/javafxlib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/javafxlib/src.zip!/javafx.base" />
+      <root url="jar://$PROJECT_DIR$/javafxlib/src.zip!/javafx.controls" />
+      <root url="jar://$PROJECT_DIR$/javafxlib/src.zip!/javafx.fxml" />
+      <root url="jar://$PROJECT_DIR$/javafxlib/src.zip!/javafx.graphics" />
+      <root url="jar://$PROJECT_DIR$/javafxlib/src.zip!/javafx.media" />
+      <root url="jar://$PROJECT_DIR$/javafxlib/src.zip!/javafx.swing" />
+      <root url="jar://$PROJECT_DIR$/javafxlib/src.zip!/javafx.web" />
+    </SOURCES>
+  </library>
+</component>
